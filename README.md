@@ -8,7 +8,7 @@ This repository contains frontend and backend code samples I wrote for the Lives
 - Node JS
 - Express JS
 - Jason Web Token(JWT) Authentication with Refresh Tokens
-- CI/CD Github Actions
+- **CI**/**CD** Github Actions
 
 ### Frontend
 - Reactjs
